@@ -17,6 +17,7 @@ Computer Science student at UNBC (Dean's List) · Prince George, BC · Open to 2
 | [safety-assistant](https://github.com/piyushdaryanani/safety-assistant) | RAG assistant that cites its source page and refuses when it can't answer; 23/25 correct and 5/5 refused on a 30-question test set |
 | [uart-firmware](https://github.com/piyushdaryanani/uart-firmware) | Bare-metal C on an ARM Cortex-M3: interrupt-driven UART, lock-free ring buffer, 2,124 unit checks and 22 regression tests in CI |
 | [Scramble-Word-Game](https://github.com/piyushdaryanani/Scramble-Word-Game) | Django word game used with a social robot at a children's summer camp |
+| [natures-heroes](https://github.com/piyushdaryanani/natures-heroes) | Waste-sorting game with real-time object detection in the browser (TensorFlow.js) |
 | [inventory-backend](https://github.com/piyushdaryanani/inventory-backend) | REST API in Node.js and Express over a MySQL schema |
 
 **Tech:** Python · Java · JavaScript · TypeScript · SQL · C · Node.js · Django · MySQL · Docker · AWS · Git · Linux
